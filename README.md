@@ -11,6 +11,12 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
-```
+```## Simple Interest Calculator
+
+Yeh project simple interest calculate karne ke liye hai.
+
+### Files:
+- simple-interest.sh - Bash script
+- compound_interest.py - Python script
 
 _© 2022 XYZ, Inc._
